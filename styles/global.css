@@ -1,0 +1,71 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    background: url('/assets/bg.jpg');
+    overflow:auto;
+}
+.container{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 2rem;
+}
+nav li{
+    display: inline;
+    margin-left: 15px;
+}
+
+nav a{
+    /* text-transform: uppercase; */
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    text-decoration: none;
+    /* text-shadow: black .5rem 0 1rem; */
+    transition: .5s all;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    color: #DC41A9;
+}
+
+iframe{
+    display: none;
+}
+
+.banner{
+    /* display: none; */
+    /* opacity: 50%; */
+    display: flex;
+    justify-content: center;
+}
+
+/* .rect{
+     background-color: white;
+    width: 80%;
+    height: 31.5rem;
+    clip-path: inset();
+    display: flex;
+    justify-content: center;
+} */
+
+main h2{
+    color: white;
+    display: block;
+    font-size: 3.2rem;
+    margin-top: 2rem;
+}
+
+main p{
+    color: white;
+    display: block;
+    font-size: 2.2rem;
+    margin-top: 2rem;
+}
