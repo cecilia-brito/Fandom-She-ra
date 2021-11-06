@@ -2,11 +2,15 @@
 
 ## → Descrição do Projeto
 
-<p></p>
+<p>Página HTML temática da série(reboot) She-ra com wikis dos personagens, fóruns e quizzes </p>
 
 ## → Status
 
 <p>Em andamento 🚀</p>
+
+## → Design
+
+<a href="https://www.figma.com/file/45Gm5c7UMfKkRQr0EaOKwl/Fandom-She-ra?node-id=0%3A1">Figma</a>
 
 ## → Features
 <ul>
