@@ -13,11 +13,13 @@
 <a href="https://www.figma.com/file/45Gm5c7UMfKkRQr0EaOKwl/Fandom-She-ra?node-id=0%3A1">Figma</a>
 
 ## → Features
+
 <ul>
 <li></li>
 <li></li>
 <li></li>
 </ul>
+
 ## → Tecnologias Utilizadas
 
 - [✅] [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
