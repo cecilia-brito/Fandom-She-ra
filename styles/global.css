@@ -40,22 +40,42 @@ nav a:hover{
 iframe{
     display: none;
 }
-
-.banner{
-    /* display: none; */
-    /* opacity: 50%; */
-    display: flex;
-    justify-content: center;
+.arrow-button{
+    width: 7.1rem;
+    /* background-color: black; */
+    margin: auto 5rem;
+   
+}
+.arrow-left-part-1{
+    margin-bottom: 50px;
+    border-top: .5rem solid rgba(255, 255, 255, 1);
+    display: block;
+    transform: rotate(-57.65deg);
 }
 
-/* .rect{
-     background-color: white;
-    width: 80%;
-    height: 31.5rem;
-    clip-path: inset();
+.arrow-left-part-2{
+    display: block;
+    border-bottom: .5rem solid rgba(255, 255, 255, 1);
+    transform: rotate(-122.35deg);
+}
+.arrow-right-part-1{
+    margin-bottom: 50px;
+    border-top: .5rem solid rgba(255, 255, 255, 1);
+    display: block;
+    transform: rotate(57.65deg);
+}
+
+.arrow-right-part-2{
+    display: block;
+    border-bottom: .5rem solid rgba(255, 255, 255, 1);
+    transform: rotate(122.35deg);
+}
+.banner{
+    /* display: none; */
     display: flex;
     justify-content: center;
-} */
+    background-color: rgba(255, 255, 255, 0.4);
+}
 
 main h2{
     color: white;
