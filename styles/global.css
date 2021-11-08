@@ -91,6 +91,16 @@ main p{
     margin-top: 2rem;
 }
 
+
+.div-questions-answers{
+    margin: 10rem auto;
+    display: flex;
+    background: rgba(163, 49, 163, 1);
+    box-shadow: 1.5rem 1.5rem white;
+    border-radius: 5rem;
+    width: 80%;
+    height: 40%;
+}
 footer{
     display: block;
     /* margin-top: 30.7rem; */
