@@ -20,6 +20,43 @@ nav li{
     margin-left: 1.5rem;
 }
 
+.item::after{
+    content: '|';
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    font-size: 3.8rem;
+    margin-left: 1.4rem;
+    height: 5.8rem;
+    width: 1.1rem;
+}
+
+.modal{
+display: none;
+/* display:inline-block; */
+width: 19.8rem;
+height: 22.8rem;
+background: rgba(163, 49, 163, 1);
+position: absolute;
+right: 0;
+top: 15.85rem;
+
+}
+.modal::before{
+    content: '';
+    display: block;
+    width: 3.6rem;
+    height: 2.4rem;
+    clip-path:  polygon(50% 0%, 0% 100%, 100% 100%);
+    background-color: white;
+    position: absolute;
+    top:-2.5rem;
+    right: 11.9rem;
+}
+
+.modal-wrapper{
+
+}
+
 nav a{
     /* text-transform: uppercase; */
     color: white;
@@ -37,9 +74,9 @@ nav a:hover{
 
 }
 
-iframe{
+/* iframe{
     display: none;
-}
+} */
 .arrow-button{
     width: 7.1rem;
     /* background-color: black; */
