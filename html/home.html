@@ -7,9 +7,12 @@
         <link rel="shortcut icon" type="imagex/png" href="/assets/icon.ico">
 
         <title>Fandom - She-ra e as Princesas do Poder</title>
+
+        <script src="/scripts/main.js" defer type="module"></script>
+
         <link rel="stylesheet" href="/styles/reset.css"></link>
         <link rel="stylesheet" href="/styles/global.css"></link>
-        
+
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
@@ -24,19 +27,17 @@
                     <li class="item"><a href="#">pt</a></li>
                     <li class="item"><a href="#">Login/Sign Up</a></li>
                     <li class="item"><a href="#">Personagens</a></li>
-                    <li><a href="#">+ mais</a></li>
+                    <li><a id="button-more" href="#">+ mais</a></li>
                     </ul>
                 </div>
-                <div class="modal">
-                    <div class="modal-wrapper">
-                        <ul>
-                            <li><a>RPG</a></li>
-                            <li><a>Teorias</a></li>
-                            <li><a>Fóruns</a></li>
-                            <li><a>Quizzes</a></li>
-                        </ul>
+                    <div id="modal" class="modal">
+                            <ul>
+                                <li><a>RPG</a></li>
+                                <li><a>Teorias</a></li>
+                                <li><a>Fóruns</a></li>
+                                <li><a>Quizzes</a></li>
+                            </ul>
                     </div>
-                </div>
                 </nav>
         </header>
         <main>

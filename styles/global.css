@@ -31,7 +31,7 @@ nav li{
 }
 
 .modal{
-display: none;
+visibility: hidden;
 /* display:inline-block; */
 width: 19.8rem;
 height: 22.8rem;
@@ -53,8 +53,8 @@ top: 15.85rem;
     right: 11.9rem;
 }
 
-.modal-wrapper{
-
+.modal.active{
+    visibility: visible;
 }
 
 nav a{
