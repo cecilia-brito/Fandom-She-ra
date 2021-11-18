@@ -28,4 +28,4 @@
 
 ## → Autora
 
-<p><a href="https://www.linkedin.com/in/cec%C3%ADlia-brito-santos-a22193170/">Feito por Cecília Brito</a></p>
+<p alingn='center'><a href="https://www.linkedin.com/in/cec%C3%ADlia-brito-santos-a22193170/">Feito por Cecília Brito</a></p>
