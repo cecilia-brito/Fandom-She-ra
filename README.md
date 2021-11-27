@@ -10,7 +10,7 @@
 
 ## → Design
 
-<a href="https://www.figma.com/file/45Gm5c7UMfKkRQr0EaOKwl/Fandom-She-ra?node-id=0%3A1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<a href="https://www.figma.com/file/45Gm5c7UMfKkRQr0EaOKwl/Fandom-She-ra?node-id=0%3A1"><img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
 ## → Features
 
